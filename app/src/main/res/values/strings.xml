@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="spend_smarter_save_more">Spend Smarter\nSave More</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="transaction_type">
+        <item>Credit</item>
+        <item>Debit</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>All</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Shopping</item>
+        <item>Utilities</item>
+        <!-- Add more categories as needed -->
+    </string-array>
+
+
+</resources>
