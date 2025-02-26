@@ -63,9 +63,3 @@ Additionally, this project improved my problem-solving skills, especially in deb
 This Expense Tracker App is not just a financial management tool but also a significant milestone in my journey as an Android Developer. It has equipped me with practical knowledge of **Room Database integration**, **dynamic data visualization**, and **effective UI/UX design**. I am confident that the skills acquired from this project will greatly contribute to my future endeavors in mobile application development.
 
 **Output**
-![Image](https://github.com/user-attachments/assets/3228813c-a92c-4400-bd67-3ce818f99efd)
-![Image](https://github.com/user-attachments/assets/0a55daa5-9c5e-41cc-8ef6-283686634fd9)
-![Image](https://github.com/user-attachments/assets/6d8ad02e-e95a-4be1-9f43-3b20e8c59e28)
-![Image](https://github.com/user-attachments/assets/3701750a-5868-4611-821f-e80b3ea84dd1)
-![Image](https://github.com/user-attachments/assets/5b70b509-f88b-40c0-ab7f-2d1d67d13858)
-![Image](https://github.com/user-attachments/assets/cbfdc666-4978-4b51-8d33-2a5c257fce21)
